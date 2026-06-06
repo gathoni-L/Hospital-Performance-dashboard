@@ -30,7 +30,7 @@ This project analyzes hospital performance over one year, focusing on **pharmacy
   - **August**  
 - May indicate seasonal disease patterns.
 
----
+
 
 ##  Interpretation
 - Malaria remains a dominant health concern within the service population.
@@ -38,7 +38,7 @@ This project analyzes hospital performance over one year, focusing on **pharmacy
 - County-level analysis reveals geographic concentration of patients.
 - Seasonal spikes in diagnoses could inform staffing and inventory planning.
 
----
+
 
 ##  Data Scope
 The analysis was based on:
@@ -48,7 +48,6 @@ The analysis was based on:
 - Drug purchase records
 - Monthly disease diagnosis counts
 
----
 
 ##  Potential Applications
 - Hospital operational planning
@@ -57,7 +56,6 @@ The analysis was based on:
 - Resource allocation by season
 - Regional healthcare strategy development
 
----
 
 ##  Conclusion
 This analysis provides a snapshot of hospital performance over the year, revealing key trends in patient flow, treatment demand, and disease occurrence. These insights can support data-driven decision-making to improve healthcare delivery and efficiency.
